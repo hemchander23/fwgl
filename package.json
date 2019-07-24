@@ -1,0 +1,19 @@
+{
+  "name": "fwgl",
+  "version": "1.0.3",
+  "description": "",
+  "preferGlobal": true,
+  "bin": {
+    "fwgl": "./bin/index.js"
+  },
+  "dependencies": {
+    "commander": "^2.20.0",
+    "express": "^4.17.1",
+    "http-proxy": "^1.17.0",
+    "http-proxy-middleware": "^0.19.1",
+    "inquirer": "^6.5.0"
+  },
+  "devDependencies": {},
+  "author": "Hemchander S",
+  "license": "ISC"
+}
